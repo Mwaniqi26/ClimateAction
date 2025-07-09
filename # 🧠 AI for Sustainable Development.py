@@ -60,3 +60,4 @@ plt.show()
 # global datasets with more countries and variables should be used.
 # Emission data should also include social and economic contexts."
 
+https://colab.research.google.com/drive/1LbxEPfFflZHD2COxGrKZG7uU8ESheYeo?usp=sharing
